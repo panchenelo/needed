@@ -89,3 +89,8 @@ textarea{
 div.img {
     margin: 0 15px 0 0;
 }
+
+.site-content:not([class*=col-lg-]) {
+    flex: 0 0 73.166675%;
+    max-width: 73.16667%;
+}
