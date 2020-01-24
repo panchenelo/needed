@@ -98,5 +98,6 @@ div.img {
 	.site-content:not([class*=col-lg-]) {
     flex: 0 0 100%;
     max-width: 100%;
+    width: 100%;
 }
 }
