@@ -94,3 +94,9 @@ div.img {
     flex: 0 0 73.166675%;
     max-width: 73.16667%;
 }
+@media screen and (max-width: 991px){
+	.site-content:not([class*=col-lg-]) {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+}
